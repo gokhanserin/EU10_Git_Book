@@ -1,10 +1,8 @@
 
 
 This is the start of this book.
-
 Page 1 will help us to start the book.
-
-Java is cool
+Java is cool!
 
 James Bond is always with us.
 
